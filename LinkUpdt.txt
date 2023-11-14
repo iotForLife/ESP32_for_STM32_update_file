@@ -1,5 +1,5 @@
 {
-  "link": "https://github.com/iotForLife/ESP32_for_STM32_update_file/blob/30269ad0de072903d2d6c9bdfa55233a44f1e8c2/build/blink_1.bin",  
+  "link": "https://raw.githubusercontent.com/iotForLife/ESP32_for_STM32_update_file/main/build/blink_3.bin",  
   "Mandatory": true,
   "sw" :3.0
   }
